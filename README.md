@@ -3,11 +3,11 @@
 The repo contains:
 - the softwares used in the rice
 - the config files (modified ones) of the programs
-- the settings changed in the programs
-- any extensions installed
+- the settings changed / extensions installed in the programs
 - installation scripts
 - github repos or official sites
 - wallpapers and colour schemes used
+- screenshots of the rice
 
 ---
 

@@ -1,11 +1,14 @@
 # yet-another-windows-rice
----
+
 The repo contains:
 - the softwares used in the rice
 - the config files (modified ones) of the programs
 - the settings changed in the programs
 - any extensions installed
-- install scripts or official sites
+- install scripts
+- github repos or official sites
+
+---
 
 ## programs-used
 _these are the softwares used in the rice_
@@ -14,7 +17,7 @@ _these are the softwares used in the rice_
 **window manager** - [`glazeWM`]()
 
 - **terminal** - _tba_
-- **shell** - [`zsh`]
+- **shell** - [`zsh`]()
 - **launcher** - [`flow launcher`]()
 - **lockscreen** - _tba_
 - **status bar** - _tba_

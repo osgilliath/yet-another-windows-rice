@@ -7,6 +7,7 @@ The repo contains:
 - any extensions installed
 - installation scripts
 - github repos or official sites
+- wallpapers and colour schemes used
 
 ---
 

@@ -13,7 +13,7 @@ The repo contains:
 
 ## programs-used
 _these are the softwares used in the rice_
-> all the configs and settings updated in the following softwares will be included
+> contains links to the github repos or official sites of the programs
 
 **window manager** - [`glazeWM`](https://github.com/glzr-io/glazewm)
 

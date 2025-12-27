@@ -5,7 +5,7 @@ The repo contains:
 - the config files (modified ones) of the programs
 - the settings changed in the programs
 - any extensions installed
-- install scripts
+- installation scripts
 - github repos or official sites
 
 ---
@@ -28,3 +28,4 @@ _these are the softwares used in the rice_
 - **text editor** - `neovim`
 
 ## configs
+WAP, stay tuned

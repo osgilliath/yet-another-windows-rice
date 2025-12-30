@@ -32,7 +32,7 @@ _these are the softwares used in the rice_
 clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
 
 ## flow-launcher
-theme: [macOS.flow](https://github.com/cc46808/macOS.flow)
+theme: [macOS.flow](https://github.com/cc46808/macOS.flow) <br/>
 plugins:
 - everything
 - spotify premium

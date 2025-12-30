@@ -28,14 +28,29 @@ _these are the softwares used in the rice_
 - **system info** - [`fastfetch`](https://github.com/fastfetch-cli/fastfetch)
 - **text editor** - [`neovim`](https://neovim.io/)
 
-## file-explorer
-clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
+## spotify
+> install spotify using their official site not using microsoft store
+
+install spicetify by running (in powershell):
+```bash
+iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+```
+Theme: comfy <br/>
+Snippets: 
+- Dynamic Search Bar
+- Rotating Cover Art
+- Remove Top Gradient
+- Modern Scroll Bar
+- Oneko
 
 ## flow-launcher
 theme: [macOS.flow](https://github.com/cc46808/macOS.flow) <br/>
 plugins:
 - everything
 - spotify premium
+
+## file-explorer
+clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
 
 ## configs
 WAP, stay tuned

@@ -28,5 +28,14 @@ _these are the softwares used in the rice_
 - **system info** - [`fastfetch`](https://github.com/fastfetch-cli/fastfetch)
 - **text editor** - [`neovim`](https://neovim.io/)
 
+## file-explorer
+clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
+
+## flow-launcher
+theme: [macOS.flow](https://github.com/cc46808/macOS.flow)
+plugins:
+- everything
+- spotify premium
+
 ## configs
 WAP, stay tuned

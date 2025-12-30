@@ -31,6 +31,10 @@ _these are the softwares used in the rice_
 ## spotify
 > install spotify using their official site not using microsoft store
 
+![spotify ui](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202025-12-30%20233046.png)
+
+![lyrics](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202025-12-30%20233034.png)
+
 install spicetify by running (in powershell):
 ```bash
 iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex

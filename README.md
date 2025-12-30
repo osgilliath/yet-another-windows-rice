@@ -47,6 +47,15 @@ Snippets:
 - Modern Scroll Bar
 - Oneko
 
+## zen-browser
+![browser ui](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202025-12-30%20234718.png)
+
+mods: Transparent Zen
+layout: only sidebar
+extensions:
+- uBlock origin
+- Zen Internet
+
 ## flow-launcher
 theme: [macOS.flow](https://github.com/cc46808/macOS.flow) <br/>
 plugins:

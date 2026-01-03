@@ -28,6 +28,32 @@ _these are the softwares used in the rice_
 - **system info** - [`fastfetch`](https://github.com/fastfetch-cli/fastfetch)
 - **text editor** - [`neovim`](https://neovim.io/)
 
+## glazeWM
+![glaze](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20004222.png)
+install using:</br>
+```bash
+winget install GlazeWM
+```
+- changed the [config](https://github.com/osgilliath/yet-another-windows-rice/blob/main/dots/config.yaml) a little so that it the window gaps are reduced and it is compatible with flow launcher key bindings
+
+
+## flow-launcher
+![flow](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20002552.png)
+install [flow launcher](https://github.com/Flow-Launcher/Flow.Launcher) </br>
+theme: [macOS.flow](https://github.com/cc46808/macOS.flow) </br>
+plugins(optional):
+- spotify premium
+- pokedex
+- dictionary
+
+![preview](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20002732.png)
+
+## zebar
+![zebar](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20001222.png)
+comes bundled by default with GlazeWM
+
+widget used: overline-zebar
+
 ## spotify
 > install spotify using their official site not using microsoft store
 
@@ -56,14 +82,6 @@ extensions:
 - uBlock origin
 - Zen Internet
 
-## flow-launcher
-theme: [macOS.flow](https://github.com/cc46808/macOS.flow) <br/>
-plugins:
-- everything
-- spotify premium
-
 ## file-explorer
 clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
 
-## configs
-WAP, stay tuned, still figuring out the status bar

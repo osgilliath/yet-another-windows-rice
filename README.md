@@ -66,4 +66,4 @@ plugins:
 clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
 
 ## configs
-WAP, stay tuned
+WAP, stay tuned, still figuring out the status bar

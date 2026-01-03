@@ -40,15 +40,22 @@ winget install GlazeWM
 
 - changed the [config](https://github.com/osgilliath/yet-another-windows-rice/blob/main/dots/config.yaml) a little so that the window gaps are reduced and it is compatible with flow launcher key bindings
 
-
+***how to start glaze at startup?***
+- make a desktop shortcut of glaze (usually created by itself)
+- open run (super+r) and type `shell:startup`
+- copy the shortcut and paste in the folder opened
+ 
 ## flow-launcher
 ![flow](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20002552.png)
 
-install [flow launcher](https://github.com/Flow-Launcher/Flow.Launcher) 
+install [flow launcher](https://github.com/Flow-Launcher/Flow.Launcher) by:
+```bash
+winget install "Flow Launcher"
+```
 
 **theme:** [macOS.flow](https://github.com/cc46808/macOS.flow) 
 
-**plugins(optional):**
+**plugins (optional):**
 - calculator
 - spotify premium
 - pokedex

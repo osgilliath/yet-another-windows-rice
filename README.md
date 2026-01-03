@@ -21,7 +21,7 @@ _these are the softwares used in the rice_
 - **shell** - [`zsh`](https://github.com/ohmyzsh/ohmyzsh/) (with oh-my-zsh)
 - **launcher** - [`flow launcher`](https://github.com/Flow-Launcher/Flow.Launcher)
 - **lockscreen** - _tba_
-- **status bar** - [`zebar`](https://github.com/amnweb/yasb)
+- **status bar** - [`zebar`](https://github.com/glzr-io/zebar)
 - **spotify rice** - [`spicetify`](https://github.com/spicetify/cli)
 - **browser** - [`zen`](https://zen-browser.app/)
 - **video player** - [`screenbox`](https://github.com/huynhsontung/Screenbox)

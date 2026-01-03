@@ -66,6 +66,7 @@ comes bundled by default with GlazeWM
 > install spotify using their official site not using microsoft store
 
 ![spotify ui](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202025-12-30%20233046.png)
+(check out the cat on top of the playback bar)
 
 ![lyrics](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202025-12-30%20233034.png)
 

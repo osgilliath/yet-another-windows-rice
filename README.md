@@ -117,6 +117,17 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
 or for advanced installation options, you can see their [github](https://github.com/ScoopInstaller/Install#readme)
 
+## neovim
+multiple options are available to install neovim in windows, but I recommend using scoop, as there are multiple gui options available for nvim in scoop
+
+to install nvim using scoop, run:
+```bash
+scoop bucket add main
+scoop install neovim
+```
+
+you can check various gui for nvim, [here](https://scoop.sh/#/apps?q=neovim)
+
 ## fastfetch
 ![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20001505.png)
 

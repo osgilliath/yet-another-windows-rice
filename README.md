@@ -29,6 +29,7 @@ _these are the softwares used in the rice_
 - **installer** - [`scoop`](https://scoop.sh/)
 - **system info** - [`fastfetch`](https://github.com/fastfetch-cli/fastfetch)
 - **text editor** - [`neovim`](https://neovim.io/)
+- **code editor** - [`vs code`](https://code.visualstudio.com/)
 
 ## glazeWM
 ![glaze](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20004222.png)
@@ -132,4 +133,7 @@ you can check various gui for nvim, [here](https://scoop.sh/#/apps?q=neovim)
 ![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20001505.png)
 
 install using scoop: `scoop install fastfetch`
+
+## vs-code
+soon!!
 

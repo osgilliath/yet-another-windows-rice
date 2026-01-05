@@ -130,9 +130,18 @@ scoop install neovim
 you can check various gui for nvim, [here](https://scoop.sh/#/apps?q=neovim)
 
 ## fastfetch
-![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20001505.png)
+![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223314.png)
 
 install using scoop: `scoop install fastfetch`
+
+**for customisation:**
+- download both the [config files](https://github.com/osgilliath/yet-another-windows-rice/tree/main/fastfetch)
+- open run (super+r) and type `%USERPROFILE%`
+- create or open the .config folder
+- make a folder named 'fastfetch' (remove the '', duhhh)
+- paste both the config files there
+- replace '%USERPROFILE%' in [config.jsonc](https://github.com/osgilliath/yet-another-windows-rice/blob/main/fastfetch/config.jsonc) with your pc's user name (i.e. the name of the folder .config is in)
+- run `fastfetch`
 
 ## vs-code
 soon!!

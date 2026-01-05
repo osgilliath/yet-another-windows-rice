@@ -72,11 +72,19 @@ comes bundled by default with GlazeWM
 ## terminal
 ![terminal](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223255.png)
 
+_pre-requisite:_ install jet-brains mono font from [nerd-fonts](https://www.nerdfonts.com/font-downloads)
+
 - open the terminal
 - go to settings (drop down menu near the plus icon)
 - go to 'open json file' (bottom of the left side bar)
 - replace the contents of the file with [this](https://github.com/osgilliath/yet-another-windows-rice/blob/main/terminal/settings.json)
 - save the file
+
+**to install some other theme:**
+- go to [windows terminal themes](https://windowsterminalthemes.dev/)
+- select a theme and click on get theme
+- paste the copied text in the 'schemes' section of the json file
+- change theme from the appearance section of the settings
 
 ## scoop
 a simple command-line installer, using which you can install programs from the terminal that are not available in winget

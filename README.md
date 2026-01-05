@@ -102,6 +102,27 @@ install using scoop: `scoop install fastfetch`
 - replace '%USERPROFILE%' in [config.jsonc](https://github.com/osgilliath/yet-another-windows-rice/blob/main/fastfetch/config.jsonc) with your pc's user name (i.e. the name of the folder .config is in)
 - run `fastfetch`
 
+## vs-code
+![vscode](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20235928.png)
+
+**Theme:** Catppucin for VSCode
+
+**Icons:** Catppucin icons
+
+**Extensions:**
+- Power Mode, by Cody Hoover
+- vscode-pets, by Anthony Shaw
+- Prettier, by Prettier
+- readme-preview, by Manish Sencha
+
+**how to make it minimal:**
+1. go to view -> appearance -> menu bar (untick it)
+2. right click on any empty space in the side bar
+3. go to activity bar position -> top
+4. right click again -> move primary side bar right (optional)
+5. right click on the search bar
+6. untick command centre (you can access it with ctrl+shift+p)
+
 ## spotify
 > install spotify using their official site not using microsoft store
 
@@ -133,7 +154,7 @@ iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
 
 **extensions:**
 - uBlock origin
-- Zen Internet
+- Zen Internet (mandatory for the transparent effect)
 
 ## file-explorer
 ![explorer](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20005238.png)
@@ -158,7 +179,3 @@ scoop install neovim
 ```
 
 you can check various gui for nvim, [here](https://scoop.sh/#/apps?q=neovim)
-
-## vs-code
-soon!!
-

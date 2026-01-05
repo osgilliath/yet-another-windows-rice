@@ -20,7 +20,6 @@ _these are the softwares used in the rice_
 **window manager** - [`glazeWM`](https://github.com/glzr-io/glazewm)
 
 - **terminal** - [`wt`](https://github.com/microsoft/terminal) and [`git bash`](https://git-scm.com/install/windows)
-- **shell** - [`zsh`](https://github.com/ohmyzsh/ohmyzsh/) (with oh-my-zsh)
 - **launcher** - [`flow launcher`](https://github.com/Flow-Launcher/Flow.Launcher)
 - **status bar** - [`zebar`](https://github.com/glzr-io/zebar)
 - **spotify rice** - [`spicetify`](https://github.com/spicetify/cli)
@@ -70,6 +69,39 @@ comes bundled by default with GlazeWM
 
 **widget used:** overline-zebar
 
+## terminal
+![terminal](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223255.png)
+
+- open the terminal
+- go to settings (drop down menu near the plus icon)
+- go to 'open json file' (bottom of the left side bar)
+- replace the contents of the file with [this](https://github.com/osgilliath/yet-another-windows-rice/blob/main/terminal/settings.json)
+- save the file
+
+## scoop
+a simple command-line installer, using which you can install programs from the terminal that are not available in winget
+
+run in a powershell terminal:
+```bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+```
+or for advanced installation options, you can see their [github](https://github.com/ScoopInstaller/Install#readme)
+
+## fastfetch
+![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223314.png)
+
+install using scoop: `scoop install fastfetch`
+
+**for customisation:**
+- download both the [config files](https://github.com/osgilliath/yet-another-windows-rice/tree/main/fastfetch)
+- open run (super+r) and type `%USERPROFILE%`
+- create or open the .config folder
+- make a folder named 'fastfetch' (remove the '', duhhh)
+- paste both the config files there
+- replace '%USERPROFILE%' in [config.jsonc](https://github.com/osgilliath/yet-another-windows-rice/blob/main/fastfetch/config.jsonc) with your pc's user name (i.e. the name of the folder .config is in)
+- run `fastfetch`
+
 ## spotify
 > install spotify using their official site not using microsoft store
 
@@ -108,16 +140,6 @@ iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
 
 clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
 
-## scoop
-a simple command-line installer, using which you can install programs from the terminal that are not available in winget
-
-run in a powershell terminal:
-```bash
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-```
-or for advanced installation options, you can see their [github](https://github.com/ScoopInstaller/Install#readme)
-
 ## neovim
 multiple options are available to install neovim in windows, but I recommend using scoop, as there are multiple gui options available for nvim in scoop
 
@@ -128,20 +150,6 @@ scoop install neovim
 ```
 
 you can check various gui for nvim, [here](https://scoop.sh/#/apps?q=neovim)
-
-## fastfetch
-![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223314.png)
-
-install using scoop: `scoop install fastfetch`
-
-**for customisation:**
-- download both the [config files](https://github.com/osgilliath/yet-another-windows-rice/tree/main/fastfetch)
-- open run (super+r) and type `%USERPROFILE%`
-- create or open the .config folder
-- make a folder named 'fastfetch' (remove the '', duhhh)
-- paste both the config files there
-- replace '%USERPROFILE%' in [config.jsonc](https://github.com/osgilliath/yet-another-windows-rice/blob/main/fastfetch/config.jsonc) with your pc's user name (i.e. the name of the folder .config is in)
-- run `fastfetch`
 
 ## vs-code
 soon!!

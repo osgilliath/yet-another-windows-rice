@@ -138,7 +138,15 @@ iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
 ## file-explorer
 ![explorer](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20005238.png)
 
-clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, to get transparent window effect
+**for the transparent effect:**
+- clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repo, or the download the raw files
+- extract the files
+- open the Release folder, and run 'register.cmd' as administrator
+- reopen file explorer to see the effect
+- change the value of 'a' in config.ini to adjust transparency (i use a=0)
+
+**for uninstallation:**
+- run 'uninstall.cmd' as administrator
 
 ## neovim
 multiple options are available to install neovim in windows, but I recommend using scoop, as there are multiple gui options available for nvim in scoop

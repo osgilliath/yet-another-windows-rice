@@ -188,13 +188,4 @@ scoop install neovim
 
 you can check various gui for nvim, [here](https://scoop.sh/#/apps?q=neovim)
 
-## how to start glazewm at startup
-
-to get the complete experience glazewm must be started as soon as the computer starts up.
-
-here's how to do it:
-- find glazewm.exe in `C:\Program Files\glzr.io\GlazeWM`
-- create shortcut of glazewm.exe
-- copy the shortcut
-- run `shell:startup`
-- paste the shortcut there
+> Now you can say I use windows btw 

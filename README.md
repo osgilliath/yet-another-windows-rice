@@ -68,6 +68,8 @@ winget install "Flow Launcher"
 comes bundled by default with GlazeWM
 
 **widget used:** overline-zebar
+_widget-config:_ [here](https://github.com/osgilliath/yet-another-windows-rice/blob/main/zebar/overline-zebar-config.json)
+(you may change the colours as per your theme)
 
 ## terminal
 ![terminal](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223255.png)

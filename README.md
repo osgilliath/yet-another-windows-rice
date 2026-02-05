@@ -72,7 +72,7 @@ _widget-config:_ [here](https://github.com/osgilliath/yet-another-windows-rice/b
 (you may change the colours as per your theme)
 
 ## terminal
-![terminal](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223255.png)
+![terminal](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-02-05%20213807.png)
 
 _pre-requisite:_ install jet-brains mono font from [nerd-fonts](https://www.nerdfonts.com/font-downloads)
 
@@ -99,7 +99,7 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 or for advanced installation options, you can see their [github](https://github.com/ScoopInstaller/Install#readme)
 
 ## fastfetch
-![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-05%20223314.png)
+![fstftch](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-02-05%20213820.png)
 
 install using scoop: `scoop install fastfetch`
 

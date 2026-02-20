@@ -11,7 +11,7 @@ The repo contains:
 
 ---
 
-![home](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/Screenshot%202026-01-04%20005001.png)
+![home](https://github.com/osgilliath/yet-another-windows-rice/blob/main/Screenshots/demo.gif)
 
 ## programs-used
 _these are the softwares used in the rice_
